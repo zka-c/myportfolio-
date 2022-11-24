@@ -11,12 +11,12 @@ module.exports = {
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.js
     siteTitle: `Cara`,
-    siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
-    siteHeadline: `Cara - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://cara.lekoarts.de`,
-    siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+    siteTitleAlt: `Subtitle Translator - Zikang Starter Portfolio`,
+    siteHeadline: `English To Chinese Subtitle Translation and Localization - by Zikang Chen`,
+    siteUrl: `https://bigpiyata.asia`,
+    siteDescription: `There are so many benefits of subtitling a video. The first use of subtitles is to present videos to those who don’t speak the language that the audio element is recorded in. `,
     siteImage: `/banner.jpg`,
-    author: `@lekoarts_de`,
+    author: `@zikang`,
   },
   trailingSlash: `never`,
   plugins: [
